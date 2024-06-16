@@ -193,7 +193,7 @@ main {
 
 .cart-container ul li button {
   background-color: red;
-  color: #fff;
+  color: green;
   border: none;
   padding: 5px 10px;
   cursor: pointer;
