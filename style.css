@@ -192,7 +192,7 @@ main {
 }
 
 .cart-container ul li button {
-  background-color: #ff4d4d;
+  background-color: red;
   color: #fff;
   border: none;
   padding: 5px 10px;
@@ -201,7 +201,7 @@ main {
 }
 
 .cart-container ul li button:hover {
-  background-color: #e60000;
+  background-color: green;
 }
 
 footer {
