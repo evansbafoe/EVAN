@@ -35,9 +35,6 @@ function showPage(pageId) {
     {
       if (event.key === "ArrowLeft" event.key === "Backspace") 
 }
-      { 
-        wiidow.history.back();
-      }
   
 }
 
