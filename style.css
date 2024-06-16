@@ -5,14 +5,14 @@ body {
   background: url('images/background.jpeg') no-repeat center center fixed;
   background-size: cover;
   text-align: center;
-  color: #333;
+  color: yellow;
 }
 
 header {
   text-align: center;
-  background: green;
+  background: white;
   background-size: cover;
-  color: #fff;
+  color: green;
   padding: 20px 0;
   position: none;
   top: 0;
@@ -20,7 +20,7 @@ header {
 }
 
 .header-content {
-  display: fixed;
+  display: flex;
   justify-content: space-between;
   text-align: center;
   margin:0;
