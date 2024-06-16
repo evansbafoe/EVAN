@@ -14,7 +14,7 @@ header {
   background-size: cover;
   color: green;
   padding: 20px 0;
-  position: none;
+  position: fixed;
   top: 0;
   z-index: 1000;
 }
@@ -109,7 +109,7 @@ main {
 }
 
 .product-card img {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
   border-radius: 10px;
 }
