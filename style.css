@@ -254,7 +254,7 @@ footer {
 }
 
 .social-links a {
-  color: none;
+  color: green;
   font-size: 2em;
   margin: 0 10px;
   transition: color 0.2s;
@@ -264,10 +264,10 @@ footer {
   color: red;
 }
 .product-box.out-of-stock {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .product-box .stock-status {
-  color: red;
+  color: green;
   font-weight: bold;
 }
