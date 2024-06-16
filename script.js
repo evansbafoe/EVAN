@@ -1,5 +1,5 @@
 const products = [
-  { name: 'Arduino', price: 24.99, image: 'https://i.ibb.co/WKYLMJ2/download.webp', description: 'Arduino is an open-source electronics platform based on easy-to-use hardware and software.' },
+  { name: 'Arduino', price: 160.99, image: 'https://i.ibb.co/WKYLMJ2/download.webp', description: 'Arduino is an open-source electronics platform based on easy-to-use hardware and software.' },
   { name: 'GSM', price: 195.99, image: 'https://i.ibb.co/HtqgknH/download-1.webp', description: 'GSM (Global System for Mobile Communications) is a standard developed to describe protocols for second generation (2G) digital cellular networks.' },
   { name: 'ESP32', price: 100.99, image: 'https://i.ibb.co/FwYxCq8/download.jpg', description: 'The ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth.' },
   { name: 'DC Motor', price: 95.99, image: 'https://i.ibb.co/sVMJdJd/1-1.jpg', description: 'A DC motor is any of a class of rotary electrical motors that converts direct current electrical energy into mechanical energy.' },
