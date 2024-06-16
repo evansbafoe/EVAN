@@ -120,7 +120,7 @@ main {
 }
 
 .product-card .price {
-  color: #888;
+  color: red;
   font-size: 1em;
 }
 
