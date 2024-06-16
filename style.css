@@ -14,7 +14,7 @@ header {
   background-size: cover;
   color: green;
   padding: 20px 0;
-  position: fixed;
+  position: flex;
   top: 0;
   z-index: 1000;
 }
