@@ -14,13 +14,13 @@ header {
   background-size: cover;
   color: #fff;
   padding: 20px 0;
-  position: fixed;
+  position: none;
   top: 0;
   z-index: 1000;
 }
 
 .header-content {
-  display: flex;
+  display: fixed;
   justify-content: space-between;
   text-align: center;
   margin:0;
