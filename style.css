@@ -10,7 +10,7 @@ body {
 
 header {
   text-align: right;
-  background:grey;
+  background:#333;
   background-size: cover;
   color: green;
   padding: 10px 0;
@@ -21,7 +21,7 @@ header {
 }
 
 .header-content {
-  display: flex;
+  display: fixed;
   justify-content: space-between;
   align-items: center;
   max-width: 500px;
