@@ -10,7 +10,7 @@ body {
 
 header {
   text-align: right;
-  background:#333;
+  background:grey;
   background-size: cover;
   color: green;
   padding: 10px 0;
@@ -206,7 +206,7 @@ footer {
   padding: 10px 0;
   position: flex;
   bottom: 0;
-  width: 100%;
+  width: 200%;
   text-align: center;
   margin-top: auto;
 }
