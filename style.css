@@ -32,10 +32,10 @@ nav .dropdown {
 }
 
 nav .dropbtn {
-  background-color: green;
-  color: white;
+  background-color: yellow;
+  color: red;
   padding: 16px;
-  font-size: 25px;
+  font-size: 20px;
   border: none;
   cursor: pointer;
 }
@@ -44,8 +44,9 @@ nav .dropdown-content {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
-  min-width: 20px;
-  box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.2);
+  min-width: 15px;
+  box-shadow: 0px 2px 6px 0px <a href="#" onclick="showPage('cart')">Cart (<span id="cartCount">0</span>)</a>
+          </div>(0,0,0,0.2);
   z-index: 1;
 }
 
