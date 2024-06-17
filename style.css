@@ -214,7 +214,7 @@ footer {
 .social-links a {
   margin: 0 10px;
   color: black;
-  font-size: 1.5em;
+  font-size: 2.5em;
   transition: color 0.2s;
 }
 
@@ -224,12 +224,12 @@ footer {
 
 .contact-form {
   text-align: left;
-  max-width: 600px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
 .contact-form label {
-  display: block;
+  display: flex;
   margin-bottom: 5px;
 }
 
