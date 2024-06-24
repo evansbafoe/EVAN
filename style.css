@@ -75,15 +75,15 @@ main {
 }
 
 .page {
-  background-color: ;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-  display: none;
+  background-color:rgb(255;255;255) ;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  display: flex;
 }
 
 .page.active {
-  display: block;
+  display: flex;
 }
 
 .product-list {
