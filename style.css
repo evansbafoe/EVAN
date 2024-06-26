@@ -75,7 +75,7 @@ main {
 }
 
 .page {
-  background-color:#FFFFFF;
+  background-color: white;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
@@ -203,7 +203,7 @@ footer {
   background-color: #333;
   color: #fff;
   padding: 10px 0;
-  position: flex;
+  position: none;
   bottom: 0;
   width: 100%;
   text-align: center;
